@@ -1,0 +1,5 @@
+{
+  "name": "Survey Rewards Hub",
+  "description": "An application for users to complete online surveys to earn points, which can be redeemed for various rewards like cash or gift cards. Features a dashboard, rewards store, referral system, and user profile management.",
+  "requestFramePermissions": []
+}
